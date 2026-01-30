@@ -1,0 +1,1000 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "about-page-content;verify-about-page-sections",
+        "keyword": "Scenario Outline",
+        "line": 10,
+        "name": "Verify About page sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 269287644
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the About page",
+            "match": {
+              "location": "step_definitions/about.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 759830993
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "section \"Revolutionizing Real Estate Investment\" should be visible",
+            "match": {
+              "location": "step_definitions/about.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18602786
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51182955
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "about-page-content;verify-about-page-sections",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "Verify About page sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 242015483
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the About page",
+            "match": {
+              "location": "step_definitions/about.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 617448482
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "section \"Our Mission\" should be visible",
+            "match": {
+              "location": "step_definitions/about.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16795833
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50980086
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "about-page-content;verify-about-page-sections",
+        "keyword": "Scenario Outline",
+        "line": 12,
+        "name": "Verify About page sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 253098838
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the About page",
+            "match": {
+              "location": "step_definitions/about.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 596077029
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "section \"Our Leadership Team\" should be visible",
+            "match": {
+              "location": "step_definitions/about.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15807487
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50840887
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "about-page-content;verify-about-page-sections",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "Verify About page sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 248176288
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the About page",
+            "match": {
+              "location": "step_definitions/about.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 723773717
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "section \"Supported Cryptocurrencies\" should be visible",
+            "match": {
+              "location": "step_definitions/about.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17083371
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50682998
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "about-page-content;verify-about-page-sections",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "Verify About page sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 247081132
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the About page",
+            "match": {
+              "location": "step_definitions/about.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 673534249
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "section \"Recognition & Achievements\" should be visible",
+            "match": {
+              "location": "step_definitions/about.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14902509
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50795677
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "about-page-content",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "About page content",
+    "tags": [
+      {
+        "name": "@smoke",
+        "line": 1
+      },
+      {
+        "name": "@regression",
+        "line": 1
+      }
+    ],
+    "uri": "features/about.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "faq-page;expand-first-faq-question",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Expand first FAQ question",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 248956095
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the FAQ page",
+            "match": {
+              "location": "step_definitions/faq.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 631359166
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "FAQ heading should be visible",
+            "match": {
+              "location": "step_definitions/faq.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13098648
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click first FAQ question",
+            "match": {
+              "location": "step_definitions/faq.steps.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 35522498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "FAQ answer should be displayed",
+            "match": {
+              "location": "step_definitions/faq.steps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10948836
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50659358
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "faq-page",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "FAQ Page",
+    "tags": [
+      {
+        "name": "@smoke",
+        "line": 1
+      }
+    ],
+    "uri": "features/faq.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "footer-links;validate-footer-links",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "Validate footer links",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 244907251
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the home page",
+            "match": {
+              "location": "step_definitions/home.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 843608879
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click footer link \"Properties\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 532258384
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I should be navigated to \"/properties\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4810921
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50741678
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "footer-links;validate-footer-links",
+        "keyword": "Scenario Outline",
+        "line": 12,
+        "name": "Validate footer links",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 245848677
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the home page",
+            "match": {
+              "location": "step_definitions/home.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 764275126
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click footer link \"About Us\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 545252631
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I should be navigated to \"/about\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5383347
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50893215
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "footer-links;validate-footer-links",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "Validate footer links",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 242913710
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the home page",
+            "match": {
+              "location": "step_definitions/home.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1045670621
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click footer link \"FAQ\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 535073832
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I should be navigated to \"/faq\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2695079
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50808687
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "footer-links;validate-footer-links",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "Validate footer links",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 256566735
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the home page",
+            "match": {
+              "location": "step_definitions/home.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1036355869
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click footer link \"Privacy Policy\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 529072666
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I should be navigated to \"/privacy\"",
+            "match": {
+              "location": "step_definitions/footer.steps.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2794429
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50683747
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "footer-links",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Footer Links",
+    "tags": [
+      {
+        "name": "@regression",
+        "line": 1
+      }
+    ],
+    "uri": "features/footer.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "home-page;validate-all-home-sections",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Validate all home sections",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 244484152
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the home page",
+            "match": {
+              "location": "step_definitions/home.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1046135240
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Header should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18247788
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "hero section should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11016336
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Start Investing section should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11352274
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "How BestCity Works section should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11471815
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Featured Opportunities section should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11888683
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "FAQ section should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10268448
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Footer should be visible",
+            "match": {
+              "location": "step_definitions/home.steps.js:37"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11362055
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50728927
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "home-page",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Home Page",
+    "tags": [
+      {
+        "name": "@smoke",
+        "line": 1
+      },
+      {
+        "name": "@regression",
+        "line": 1
+      }
+    ],
+    "uri": "features/home.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "properties-page;validate-properties-page-and-cards",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Validate properties page and cards",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 233955774
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open the Properties page",
+            "match": {
+              "location": "step_definitions/properties.steps.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 817098604
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Properties heading should be visible",
+            "match": {
+              "location": "step_definitions/properties.steps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11384373
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "at least 3 property cards should be displayed",
+            "match": {
+              "location": "step_definitions/properties.steps.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4143153
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Footer should be visible on properties page",
+            "match": {
+              "location": "step_definitions/properties.steps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6240945
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50599028
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 1
+          },
+          {
+            "name": "@regression",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "properties-page",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Properties Page",
+    "tags": [
+      {
+        "name": "@smoke",
+        "line": 1
+      },
+      {
+        "name": "@regression",
+        "line": 1
+      }
+    ],
+    "uri": "features/properties.feature"
+  }
+]
