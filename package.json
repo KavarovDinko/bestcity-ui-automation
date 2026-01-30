@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "test": "cucumber-js --config cucumber.js",
+    "test": "cucumber-js --format json:reports/cucumber-report.json && node support/report.js",
     "test:smoke": "cucumber-js --tags @smoke",
     "test:regression": "cucumber-js --tags @regression",
     "report": "node generate-report.js"
@@ -11,8 +11,8 @@
   "devDependencies": {
     "@cucumber/cucumber": "^10.0.0",
     "chai": "^6.2.2",
-    "selenium-webdriver": "^4.18.1",
-    "cucumber-html-reporter": "^7.1.1",
-    "fs-extra": "^11.2.0"
+    "cucumber-html-reporter": "^7.2.0",
+    "fs-extra": "^11.2.0",
+    "selenium-webdriver": "^4.18.1"
   }
 }
